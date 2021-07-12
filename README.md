@@ -2,9 +2,8 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/3d93ddbea81b4c589955df3e8fa18617)](https://app.codacy.com/manual/malcolmharris/stockpredictionapp?utm_source=github.com&utm_medium=referral&utm_content=nityansuman/warren&utm_campaign=Badge_Grade_Settings)
 ![GitHub](https://img.shields.io/github/license/malcolmharris/stockpredictionapp) 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/malcolmharris/stockpredictionapp )
-![GitHub repo size](https://img.shields.io/github/repo-size/nityansuman/warren)
-![GitHub language count](https://img.shields.io/github/languages/count/malcolmharris/stockpredictionapp)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/malcolmharris/stockpredictionapp)
+![GitHub repo size](https://img.shields.io/github/repo-size/malcolmharris/stockpredictionapp![GitHub language count](https://img.shields.io/github/languages/count/malcolmharris/stockpredictionapp)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/malcolmharris/stockpredictionapp )
 
@@ -12,7 +11,7 @@ Stock market prediction is the act of trying to determine the future value of a 
 
 We make use of Facebook's Time Series forcasting algorithm Prophet to predict stock market price of US based companies in real time using multi-variate, single step forecasting strategy.
 
-![Header](src/static/images/main_page.png)
+
 
 ## Getting Started
 
